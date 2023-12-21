@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning nginx、nest
 - 💞️ I'm looking for a front-end part-time job
 - 📫 Email:745284215@qq.com
+- 📚 Blog:[https://ajaxsir.github.io/](https://ajaxsir.github.io/)
 
 <!---
 AjaxSir/AjaxSir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
