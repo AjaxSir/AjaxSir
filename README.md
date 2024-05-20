@@ -2,7 +2,7 @@
 - 👀 I’m good at vue and react
 - 🌱 I’m currently learning nginx、nest
 - 💞️ I'm looking for a front-end part-time job
-- 📫 Email:745284215@qq.com
+- 📫 Email: nevesto777777@gmail.com
 - 📚 Blog:[https://ajaxsir.github.io/](https://ajaxsir.github.io/)
 
 <!---
